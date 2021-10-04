@@ -1,2 +1,2 @@
-# openplanet-issues
+# Openplanet issues
 Issue tracker for Openplanet.
